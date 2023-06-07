@@ -46,7 +46,8 @@ body{
 }   
 
 #container{
-    width: 420px;
+    width: 100%;
+    max-width: 588px;
     background-color: var(--bg-color);
     
     border-radius: 10px;
